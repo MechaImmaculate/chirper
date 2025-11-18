@@ -1,3 +1,29 @@
+# Chirper – Laravel & Tailwind Mini Project
+
+A simple Laravel application built as part of my portfolio to demonstrate:
+- Laravel fundamentals (routing, controllers, models, migrations)
+- Blade templating
+- CRUD operations using Eloquent
+- Tailwind CSS styling
+- Git/GitHub workflow discipline
+
+## 🚀 Features
+- Create Ninjas (name, skill level, bio)
+- List all Ninjas stored in the database
+- Form validation
+- Dynamic UI using Tailwind CSS
+- Clean, minimal project structure
+
+## 🛠️ Tech Stack
+- **Laravel 11**
+- **PHP 8.3**
+- **MySQL / SQLite**
+- **Tailwind CSS 4 + Vite**
+- **Composer & NPM**
+
+## 📦 Installation
+/*** Laravel ***/
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
